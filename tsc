@@ -1,9 +1,0 @@
-<Col lg={3}>
-						<LeftNav />
-					</Col>
-					<Col lg={6}>
-						<h2>main Content coming</h2>
-					</Col>
-					<Col lg={3}>
-						<RightNav />
-					</Col>
